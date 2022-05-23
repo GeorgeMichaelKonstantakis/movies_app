@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+
+    <string name="add_movie_to_watchlist_text">Add To Watchlist</string>
+    <string name="remove_movie_from_watchlist_text">Remove From Watchlist</string>
+
+    <string name="view_watchlist">View Watchlist</string>
+    <string name="exit_watchlist">Exit Watchlist</string>
+</resources>
